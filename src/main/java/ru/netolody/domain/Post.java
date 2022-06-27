@@ -1,3 +1,5 @@
+package ru.netolody.domain;
+
 public class Post {
     public FormDate birthday;
     public String name;
